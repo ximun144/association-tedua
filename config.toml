@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://association-tedua.fr"
+baseURL = "/"
 languageCode = "en-us"
 title = "TeDua te bienvenue"
 theme = "forty"
