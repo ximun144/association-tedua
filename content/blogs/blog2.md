@@ -36,7 +36,7 @@ ARTISTES & ARTISANS :
 
    MEMBRES ACTIFS :
 
-       Pendant toute la durée de "KIJOU?", Une équipe de membres d'association sont présent pour accueillir le public, suivreles
+       Pendant toute la durée de "KIJOU?", Une équipe de membres d'association sont présent pour accueillir le public, suivreles--> Poursuivre la lecture vers [les Artistes et Faiseurs](https://www.association-tedua.fr/blogs/artistes-et-faiseurs/)
        cours et échanger avec tous ceux qui seront sur place.
 
 
@@ -51,3 +51,6 @@ ARTISTES & ARTISANS :
        Pour le Mercredi 24, un temps est dédié au Numérique Libre dans la culture et l'art. Offrant une nouvelle visualisation
        des trajectoire de diffusion qu'offre le territoire. Ce temps sera mise en scène, et accompagné par un repas organisé par
        Ben.
+
+  --> Revenir vers [les chemin(s) de la semaine](https://www.association-tedua.fr/blogs/chemins-de-la-semaine/)
+  --> Poursuivre la lecture vers [l'Atelier: Diffuseurs et Numérique ](https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/)

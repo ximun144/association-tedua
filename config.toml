@@ -79,7 +79,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Artistes & Faiseurs"
-      subtitle = "Plus de 30 comédiens, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là. Au service du Public. Viens rencontrer leurs expressions... [clique ici-->]"
+      subtitle = "Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes produiront cette semaine-là. Au service du Public. Viens rencontrer leurs expressions... [clique ici-->]"
       image = "pic03.jpg"
       url = "blogs/artistes-et-faiseurs"
 
@@ -94,6 +94,18 @@ disqusShortname = ""
       subtitle = "Droit d'entrée pour la semaine. Transports et Plan pour venir au Cerisier [clique ici-->]"
       image = "pic06.jpg"
       url = "blogs/infos-pratiques"
+
+  [[params.tiles.showcase]]
+      title = "Au-delà des 6 jours: FORMATIONS TEDUA"
+      subtitle = "Tout au long de l'année, l'association TeDua te propose des stages, ateliers, formations au Jeu. Du théâtre au clown, amateur ou professionnel, qui que ce soit: viens et joue... [clique ici-->]"
+      image = "pic06.jpg"
+      url = "blogs/formations-tedua"
+
+  [[params.tiles.showcase]]
+      title = "Au-delà des 6 jours: CRÉATIONS TEDUA"
+      subtitle = "L'association TeDua est aussi une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les âges... [clique ici-->]"
+      image = "pic06.jpg"
+      url = "blogs/creations-tedua"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -134,19 +146,19 @@ disqusShortname = ""
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
+    
     [[params.contact.email]]
-    title = "Missive:"
+    title = "Email:"
     email = "diffusion@association-tedua.fr"
 
     [[params.contact.phone]]
-    title = "Coup de Bigot (demander: Anne-Lucie Dumay)"
-    phone = "0615609704"
+    title = "Téléphone (Anne Lucie Dumay):"
+    phone = "06 15 60 97 04"
 
     [[params.contact.address]]
     title = "Le Cerisier"
     street = "7-11 rue Joseph Brunet"
     city = "Bordeaux"
-    country = "France"
 
   # Footer section
   [params.footer]

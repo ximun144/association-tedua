@@ -18,7 +18,7 @@ Au cours de ces 2 heures de pause-déjeuner, 3 intervenants de Bordeaux, Lyon et
 
 Le sujet du Numérique prend une place toujours plus importante dans tous les champs de l'économie et de la création,
 si bien qu'il est maintenant dépassé de le percevoir comme un effet de mode, ou une technologie de passage.
-En effet, c'est bien d'une révolution de l'Écriture qu'il s'agit, et comme tout réseau enchevêtré d'outils et d'humains, c'est l'acte de création artistique et sa diffusion-mêmes qui s'en retrouvent questionnés et mis à l'épreuve afin de pouvoir trouver leur Public.
+En effet, c'est bien d'une révolution de l'Écriture[l'Atelier: Diffuseurs et Numérique ](https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/) qu'il s'agit, et comme tout réseau enchevêtré d'outils et d'humains, c'est l'acte de création artistique et sa diffusion-mêmes qui s'en retrouvent questionnés et mis à l'épreuve afin de pouvoir trouver leur Public.
 
 Pour illustrer ces nouveaux usages, et continuer notre exploration de la place du Public dans le Jeu,
 nous invitons tous les diffuseurs de spectacle, artistes, associations de théâtre et d'arts vivants, à venir écouter ,converser et découvrir de nouveaux outils pair-à-pair avec:
@@ -27,7 +27,10 @@ nous invitons tous les diffuseurs de spectacle, artistes, associations de théâ
 INTERVENANTS | SUJET OFFERT | VILLE
 ------------ | ------------- | -------------
 Pierre-Grangé Praderas, initiateur de l'école des Beaux-Hacks pour artistes et développeur de logiciels libres | Pour une conférence-performance de 33 minutes sur tableau noir. | Bordeaux
-Grégoire XXXx, créateur d'un logiciel Libre de cartographie de réseaux et d'optimisation des tournées des groupes de musique | Pour un témoignage des enjeux et idées poursuivies lors de la création de cet outil. | Lyon
-Nicolas Bienvenu, , co-fondateur de la plateforme de diffusion de spectacles vivants de proximité "À 2 pas de la scène"| Paris
+Grégory Bahde, créateur d'un logiciel Libre de cartographie de réseaux et d'optimisation des tournées des groupes de musique | Pour un témoignage des enjeux et idées poursuivies lors de la création de cet outil. | Lyon
+Nicolas Bienvenu, professionnel de la culture & ex-gérant de salle de spectacle vivants dans les Alpes | Pour témoigner de son expérience et de sa vision comme co-fondateur de la plateforme de diffusion de spectacles vivants de proximité "À 2 pas de la scène" | Paris
 
 Sous le signe du partage de connaissances, d'outils. d'expériences vécues.
+
+--> Revenir vers [[les Artistes et Faiseurs](https://www.association-tedua.fr/blogs/artistes-et-faiseurs/)
+--> Poursuivre la lecture vers [les Infos Pratiques ](https://www.association-tedua.fr/blogs/infos-pratiques/)
