@@ -1,6 +1,6 @@
 ---
 title: "Artistes & Faiseurs"
-description: "Plus de 30 comédiens, enseignant, musiciens, artisans..."
+description: "Plus de 30 comédiens, élèves, enseignant, musiciens, artisans..."
 slug: "artistes-et-faiseurs"
 image: pic03.jpg
 keywords: ""
@@ -11,7 +11,7 @@ date: 2017-10-31T22:26:09-05:00
 draft: false
 ---
 
-Plus de 30 comédiens, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là.
+Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là.
 Pour le Public.
 
 ![KIJOU?](/img/kijou.jpg)
@@ -31,7 +31,7 @@ ARTISTES & ARTISANS :
        Que cela peut bien vouloir dire?
        Chaque matin de "KIJOU?", l'expérience de se retrouver face au public se retourne pour découvrir qui est le public,
        car c'est bien lui qui est témoin du jeu, non?
-       Pendant ces matinées de stage de thé6atre, vous serez invités à entrer dans le jeu.
+       Pendant ces matinées de stage de théâtre, vous serez invités à entrer dans le jeu.
        Public, ou comédien.
 
    MEMBRES ACTIFS :

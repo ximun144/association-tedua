@@ -98,13 +98,13 @@ disqusShortname = ""
   [[params.tiles.showcase]]
       title = "Au-delà des 6 jours: FORMATIONS TEDUA"
       subtitle = "Tout au long de l'année, l'association TeDua te propose des stages, ateliers, formations au Jeu. Du théâtre au clown, amateur ou professionnel, qui que ce soit: viens et joue... [clique ici-->]"
-      image = "pic06.jpg"
+      image = "stages.png"
       url = "blogs/formations-tedua"
 
   [[params.tiles.showcase]]
       title = "Au-delà des 6 jours: CRÉATIONS TEDUA"
       subtitle = "L'association TeDua est aussi une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les âges... [clique ici-->]"
-      image = "pic06.jpg"
+      image = "creations.png"
       url = "blogs/creations-tedua"
     # You can make more showcases by copy and pasting the code above
 
