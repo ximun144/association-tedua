@@ -18,15 +18,16 @@ La question se pose alors: d'où le Public voit-il? et aussi: qui joue?
 Investir un espace d'expression(s) éphémère:
 ancré matériellement dans le lieu physique du Cerisier,
 ancré émotionnellement dans la profondeur des échanges qui pourront s'y produire.
-Pour que TeDua soit l'association de ceux qui l'habitent: au service de l'intérêt personnel (oui, personnel) de chacun, exposé au yeux de l'autre.
+Pour que TeDua soit l'association de ceux qui l'habitent: au service de l'intérêt personnel (oui, personnel) de chacun, simplement exposé au yeux des autres.
 
 
---> par ici le Mécénat participatif de TeDua sur HelloAsso.org: DONNEZ-VOUS, DONNEZ-NOUS! :-D
+--> par ici [le Mécénat participatif de TeDua sur HelloAsso.org](https://www.helloasso.com/associations/tedua/collectes/kijou-6-jours-de-jeu-ensemble-au-cerisier): DONNEZ-VOUS, DONNEZ-NOUS! :-D
+
+
 ![Mécénat participatif sur HelloAsso](/img/helloasso.png)
 
 
-Avec pour plateforme commune permanente: LE JEU!
-
+Résumé de la semaine au Cerisier:   
 
 QUI | QUOI | OÙ | QUAND | COMMENT  | POURQUOI
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------
